@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pardhiya</h1>
 <h3 align="center">!! Software Developer !!</h3>
 
-- 🌱 I’m currently learning `Backend Development` using **Spring Boot.**
+- 🌱 I’m currently learning `Backend Development` using **Java & Spring Boot.**
 
 - 📫 How to reach me **abhishekpardhiya@gmail.com**
 
