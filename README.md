@@ -8,7 +8,10 @@
 - `Spring Data JPA:` Basic proficiency in managing database operations using Spring Data JPA.
 - `Spring Security (JWT):` Understanding of implementing authentication and authorization using Spring Security with JWT.
 - `MySQL:` Basic experience in designing, querying, and managing relational databases using MySQL.
-- 
+- `Angular:` Basic familiarity with developing front-end applications using the Angular framework.
+- `Twilio:` Basic experience in integrating Twilio APIs for SMS and communication services.
+- `Razorpay:` Basic knowledge of integrating Razorpay for payment processing and financial transactions.
+
 
 - 📫 How to reach me **abhishekpardhiya@gmail.com**
 
