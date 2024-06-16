@@ -2,13 +2,17 @@
 <h3 align="center">!! Software Developer !!</h3>
 
 - 🌱 I’m a `Backend Developer`.
+  # Backend
 - `Java:` Familiar with Java for backend development, including developing basic `RESTful APIs`.
 - `Spring Boot:` Basic understanding of building scalable applications using Spring Boot.
 - `Spring MVC:` Familiar with developing simple web applications using Spring MVC framework.
 - `Spring Data JPA:` Basic proficiency in managing database operations using Spring Data JPA.
 - `Spring Security (JWT):` Understanding of implementing authentication and authorization using Spring Security with JWT.
+  # Database
 - `MySQL:` Basic experience in designing, querying, and managing relational databases using MySQL.
+  # Frontend
 - `Angular:` Basic familiarity with developing front-end applications using the Angular framework.
+  # Integration APIs
 - `Twilio:` Basic experience in integrating Twilio APIs for SMS and communication services.
 - `Razorpay:` Basic knowledge of integrating Razorpay for payment processing and financial transactions.
 
