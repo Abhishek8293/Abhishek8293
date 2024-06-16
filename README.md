@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pardhiya</h1>
 <h3 align="center">!! Software Developer !!</h3>
 
-- 🌱 I’m currently learning `Backend Development` using **Java & Spring Boot.**
+- 🌱 I’m a `Backend Developer`.
+- **Java:** Familiar with Java for backend development, including developing basic `RESTful APIs`.
+- **Spring Boot:** Basic understanding of building scalable applications using Spring Boot.
+- **Spring MVC:** Familiar with developing simple web applications using Spring MVC framework.
+- **Spring Data JPA:** Basic proficiency in managing database operations using Spring Data JPA.
+- **Spring Security (JWT):** Understanding of implementing authentication and authorization using Spring Security with JWT.
+- **MySQL:** Basic experience in designing, querying, and managing relational databases using MySQL.
+- 
 
 - 📫 How to reach me **abhishekpardhiya@gmail.com**
 
